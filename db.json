@@ -1,16 +1,13 @@
 {
-  "products": [
-    { "id": 1, "title": "SZ Sächsische Zeitung", "value": 33 },
-    { "id": 2, "title": "Morgenpost", "value": 30 },
-    { "id": 3, "title": "MAS Morgenpost am Sonntag", "value": 30 },
-    { "id": 4, "title": "FreitagsSZ", "value": 15 },
-    { "id": 5, "title": "Dresden am Wochenende", "value": 55 },
-    { "id": 6, "title": "ASZ Auszeit", "value": 23 },
-    { "id": 7, "title": "SAS SZ am Sonntag", "value": 10 },
-    { "id": 8, "title": "Sonderausgabe", "value": 63 },
-    { "id": 9, "title": "AUG AUgusto", "value": 21 }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "borner"
+    "name": "typicode"
   }
-}
