@@ -10,4 +10,7 @@
     { "id": 8, "title": "Sonderausgabe", "value": 63 },
     { "id": 9, "title": "AUG AUgusto", "value": 21 }
   ],
+  "profile": {
+    "name": "borner"
+  }
 }
